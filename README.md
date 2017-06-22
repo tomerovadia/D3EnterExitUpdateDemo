@@ -4,4 +4,4 @@
 
 A simple demonstration of the D3 JavaScript library's powerful enter/exit/update pattern.
 
-<img src="demo.gif" width="600">
+<img src="demo.gif" width="800">
